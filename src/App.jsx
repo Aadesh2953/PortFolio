@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 import NavbarMain from "./Components/navbar/NavbarMain.jsx";
 import ProjectMain from "./Components/ProjectSection/ProjectMain.jsx";
 import HeroMain from "./Components/HeroSection/HeroMain.jsx";
-import SubHeroSection from "./Components/SubHero/subHeroSection.jsx";
+import SubHeroSection from "./Components/SubHero/SubHeroSection.jsx";
 import AboutMeMain from "./Components/AboutMeSectiom/AboutMeMain.jsx";
 import HelperSection from "./Components/HelperSection.jsx";
 import SkillsMain from "./Components/SkillSection/SkillsMain.jsx";
