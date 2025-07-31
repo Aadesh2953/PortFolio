@@ -29,7 +29,9 @@ function HeroText() {
         viewport={{ once: false, amount: 0 }}
         className="text-lg mt-4 text-white "
       >
-        A Passionate Web Developer <br /> with 1 Year of Experience
+        A passionate Software Engineer with 1 year of experience in <br />
+        Full-Stack Web Development, dedicated to building scalable,
+        <br /> user-focused applications.
       </motion.p>
     </div>
   );

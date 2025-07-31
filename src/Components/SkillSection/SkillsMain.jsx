@@ -17,7 +17,7 @@ function SkillsMain() {
         >
           <SkillsText />
         </motion.div>
-        <div className="button-[50px] absolute left-[50%] -translate-x-[50%] lg:block sm:hidden">
+        <div className="bottom-[50px] absolute left-1/2 -translate-x-1/2 lg:block sm:hidden">
           <AllSkill />
         </div>
         <div className="sm:block lg:hidden">
